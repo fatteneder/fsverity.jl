@@ -1,0 +1,7 @@
+name = "fsverity"
+uuid = "8bbc8a38-65ff-4e54-998f-fc3850aa2935"
+authors = ["Florian Atteneder"]
+version = "0.1.0"
+
+[deps]
+libfsverity_jll = "7814f535-641e-5507-9ed0-8c1f2de5f503"
